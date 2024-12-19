@@ -1,0 +1,10 @@
+setuptools>=65.5.1
+numpy>=1.26.0
+opencv-python>=4.8.0
+azure-cognitiveservices-vision-face==0.6.0
+msrest==0.6.21
+requests==2.26.0
+
+
+
+

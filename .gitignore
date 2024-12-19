@@ -1,0 +1,12 @@
+# Ignorar el entorno virtual
+env/
+
+# Archivos temporales y caché
+__pycache__/
+*.pyc
+
+# Archivos de configuración de editor
+.vscode/
+
+# Archivos JSON o claves privadas
+key.json
